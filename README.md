@@ -1,7 +1,7 @@
 ## Bem-vindo!
 ## Este é um repositório com objetivo de acompanhamento dos exercícios resolvidos do site https://exercism.org. 👩‍🎓 🖥️ 📈
 
-### Exercise #1 
+### Exercise #1 - Greeter.java
 Instructions
 The classical introductory exercise. Just say "Hello, World!".
 
@@ -15,7 +15,7 @@ Submit your solution and check it at the website.
 If everything goes well, you will be ready to fetch your first real exercise.
 
 
-### Exercise #2
+### Exercise #2 - Lasagna.java
 Instructions
 In this exercise you're going to write some code to help you cook a brilliant lasagna from your favorite cooking book.
 
